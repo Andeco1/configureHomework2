@@ -1,0 +1,6 @@
+{
+    "graph_visualizer": "mermaid",
+    "package_name": "newtonsoft.json.13.0.3",
+    "output_file": "graph_output.md",
+    "max_depth": 3
+}
